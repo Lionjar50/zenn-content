@@ -3,7 +3,7 @@ title: "2026年3月のZennトレンドを眺めて感じたこと"
 emoji: "👀"
 type: "idea"
 topics: ["ai", "poem", "生成ai", "エンジニア"]
-published: false
+published: true
 ---
 
 Zennのトレンド記事を定期的にチェックするようにしている。今週のランキングを眺めていて、いくつか気になる傾向があったのでメモ的に書いておきます。
