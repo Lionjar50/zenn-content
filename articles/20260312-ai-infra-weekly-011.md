@@ -163,3 +163,4 @@ SIEM 連携（Splunk / Elastic / Datadog）も強化されており、SOC 運用
 また、コメントでこんなネタも取り上げてほしい、というリクエストも歓迎しています 🙌
 
 <!-- draft: 2026-03-12 自動収集 by AI assistant -->
+
