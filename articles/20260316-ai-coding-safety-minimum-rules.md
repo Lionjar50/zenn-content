@@ -3,7 +3,7 @@ title: "AIコーディングを速くしつつ事故らないための最低限�
 emoji: "🛡️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "security", "devops"]
-published: false
+published: true
 ---
 
 ## はじめに
